@@ -7,7 +7,7 @@ Manifest
     이 용어는 화물 목록(ship manifest)이 선원 및 화물을 나열하는 화물 수송 절차로부터 가져온 것이다.
 
 ### 역할
-    1. 패키지 네임 지정 - 앱의 리소스 접근, 상대경로 적용(build.gradle에 의해 재정의 됨)
+    1. 패키지 네임 지정 - 앱의 리소스 접근, 상대경로 적용(APK 추출 시 build.gradle에 의해 변경됨)
     2. 사용 구성요소(Component - Activity, Service, BroadCastReceiver, ContentProvider) 선언
     3. 권한(Permission) 설정
     4. 앱의 필요로 하는 H/W, S/W 특징 명시 - <uses-feature>, <uses-sdk> => uses-sdk 는 build.gradle 에서 minSdkVersion 로 재정의 됨
