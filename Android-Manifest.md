@@ -1,7 +1,7 @@
 Manifest
 ========
 
-* 매니페스트 파일 정의 - (위키백과, 우리 모두의 백과사전) [링크] : https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%8B%88%ED%8E%98%EC%8A%A4%ED%8A%B8_%ED%8C%8C%EC%9D%BC
+* 매니페스트 파일 정의 - (위키백과, 우리 모두의 백과사전) [링크](https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%8B%88%ED%8E%98%EC%8A%A4%ED%8A%B8_%ED%8C%8C%EC%9D%BC)
 
     매니페스트 파일(manifest file)은 컴퓨팅에서 집합의 일부 또는 논리정연한 단위인 파일들의 그룹을 위한 메타데이터를 포함하는 파일이다. 
     
